@@ -1,0 +1,11 @@
+# Build stuff
+
+*.exe
+*.obj
+*.dll
+*.ilk
+*.pdb
+
+# RemedyBG files
+*.rdbg
+
